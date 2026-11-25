@@ -1,6 +1,9 @@
 // Paste your verified public Google Forms links here before publishing.
-const forms = {customer: 'https://docs.google.com/forms/d/e/1FAIpQLSeKDeXoUuMg27-AnmIT8sjNOwHc1Br1OlFxyjzxfQy3i8VRfQ/viewform?usp=dialog', driver: ''};
-// Optional: confirmed business email (not your personal email).
+const forms = {
+  customer: 'https://docs.google.com/forms/d/e/1FAIpQLSeKDeXoUuMg27-AnmIT8sjNOwHc1Br1OlFxyjzxfQy3i8VRfQ/viewform?usp=dialog',
+  driver: ''
+};
+
 const businessEmail = '';
 const menu = document.querySelector('#menu');
 const nav = document.querySelector('#nav');
